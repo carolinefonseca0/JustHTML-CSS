@@ -1,0 +1,13 @@
+table {
+    border-spacing: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+  .fit {
+    max-width: 99%;
+    max-height: 99%;
+  }
+  <img class="fit" src="https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1492721604075-0AUQMR0HKZGBJDV70OQ9/FLC_Seats_Y3.jpg?format=2500w">
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
